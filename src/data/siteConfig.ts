@@ -4,7 +4,7 @@ export const siteConfig = {
   origin: 'https://cuyahogafallshydrojetting.prosapp.site',
   phoneDisplay: '(877) 761-0283',
   phoneHref: '+18777610283',
-  ga4MeasurementId: '',
+  ga4MeasurementId: 'G-EW3X3V90KP',
   airchattyTrackingId: 'tk_61d238e145314251999b74fdd5c953cf',
   brandCity: 'Cuyahoga Falls',
   cityState: 'Cuyahoga Falls, Ohio',
