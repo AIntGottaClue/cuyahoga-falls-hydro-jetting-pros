@@ -21,7 +21,24 @@
    "preventative-maintenance"
   ]
  ],
- "hoods": [],
+ "hoods": [
+  [
+   "Downtown and Front Street",
+   "downtown-front-street"
+  ],
+  [
+   "Broad Boulevard",
+   "broad-boulevard"
+  ],
+  [
+   "Broadbeck Park",
+   "broadbeck-park"
+  ],
+  [
+   "Northampton",
+   "northampton"
+  ]
+ ],
  "pages": {
   "/": {
    "title": "\n   Hydro Jetting in Cuyahoga Falls, OH | Cuyahoga Falls Hydro Jetting Pros\n  ",
@@ -42,6 +59,10 @@
     {
      "kind": "prose",
      "html": "<h2>\n      Understand the cleaning options\n     </h2>\n<p>\n      If a drain keeps clogging, read\n      <a href=\"/hydro-jetting-vs-snaking/\">\n       how jetting compares with snaking\n      </a>\n      before assuming the same tool should be used again. For a look at inspection, access and cleanup, see\n      <a href=\"/how-hydro-jetting-works/\">\n       how hydro jetting works\n      </a>\n      . A qualified professional can assess whether the pipe can be cleaned safely.\n     </p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Neighborhood pages</h2>\n<p>Drain problems are local. Read about Cuyahoga Falls neighborhoods and what to ask before hydro jetting.</p>\n<a href=\"/downtown-front-street/\">Downtown and Front Street</a> <a href=\"/broad-boulevard/\">Broad Boulevard</a> <a href=\"/broadbeck-park/\">Broadbeck Park</a> <a href=\"/northampton/\">Northampton</a>"
     },
     {
      "kind": "steps",
@@ -436,6 +457,210 @@
    "h1": "Terms of use",
    "heroP": "Cuyahoga Falls Hydro Jetting Pros provides general information about hydro jetting in Cuyahoga Falls and a way to request contact with service providers.",
    "intro": "By using this website, you agree to use it for lawful purposes and provide accurate information when submitting a request. If you have a question about the website, call <a href=\"tel:{{PHONE_HREF}}\">{{PHONE_DISPLAY}}</a>."
+  },
+  "downtown-front-street": {
+   "title": "Hydro Jetting in Downtown and Front Street, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros",
+   "desc": "Drain and sewer line questions for Downtown and Front Street in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.",
+   "canon": "https://cuyahogafallshydrojetting.prosapp.site/downtown-front-street/",
+   "ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\",\"name\":\"Cuyahoga Falls Hydro Jetting Pros\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/\",\"description\":\"Information and requests for hydro jetting service in Cuyahoga Falls, Ohio. Service availability and pipe suitability require confirmation with a qualified professional.\",\"areaServed\":{\"@type\":\"City\",\"name\":\"Cuyahoga Falls, Ohio\"}},{\"@type\":\"WebPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/downtown-front-street/#webpage\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/downtown-front-street/\",\"name\":\"Hydro Jetting in Downtown and Front Street, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros\",\"about\":{\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\"},\"description\":\"Drain and sewer line questions for Downtown and Front Street in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.\"},{\"@type\":\"FAQPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/downtown-front-street/#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Are all Downtown and Front Street sewer lines original?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there.\"}},{\"@type\":\"Question\",\"name\":\"Could roots be causing a backup in Downtown and Front Street?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning.\"}},{\"@type\":\"Question\",\"name\":\"Is jetting suitable for an older Cuyahoga Falls house?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment.\"}}]}]}"
+   ],
+   "sections": [
+    {
+     "kind": "prose",
+     "html": "<h2>Downtown buildings</h2>\n<p>Older commercial and mixed-use buildings often have several fixtures sharing one line, and past remodels may have changed the plumbing. Ask which fixtures back up together, since that helps show where along the line the trouble sits.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Before jetting a downtown building</h2>\n<p>A camera inspection can show whether the line is sound and where a blockage sits. Cleaning should be chosen to fit the pipe material and condition, not the age of the building.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Sources</h2>\n<p>Neighborhood background from <a href=\"https://www.cityofcf.com/sites/default/files/editor/CD/NW1509_CuyahogaFalls_SurveyReport_6.30.2016_final_comb.pdf\" rel=\"noopener\">this public record</a>.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Related reading</h2>\n<p>These pages explain different drain symptoms and cleaning choices.</p>\n<a href=\"/tree-root-intrusions/\">Tree Root Intrusions</a>\n<a href=\"/severe-grease-and-sludge/\">Severe Grease and Sludge</a>\n<a href=\"/how-hydro-jetting-works/\">How Hydro Jetting Works</a>"
+    }
+   ],
+   "bc": "Hydro jetting and drain lines in Downtown and Front Street",
+   "h1": "Hydro jetting questions for Downtown and Front Street homes",
+   "heroP": "Downtown Cuyahoga Falls grew along the Cuyahoga River, where river power drove the city's early mills.",
+   "intro": "The city's 2016 historic survey describes Front Street as lined with commercial buildings, most dating from 1900 to 1929, with the river gorge close by. Older masonry buildings and small lots can mean older drain and sewer connections, though the age of a building does not tell you the condition of the line under it.",
+   "faq": [
+    {
+     "q": "Are all Downtown and Front Street sewer lines original?",
+     "a": "Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there."
+    },
+    {
+     "q": "Could roots be causing a backup in Downtown and Front Street?",
+     "a": "Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning."
+    },
+    {
+     "q": "Is jetting suitable for an older Cuyahoga Falls house?",
+     "a": "It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment."
+    }
+   ],
+   "faqH2": "Questions about drains in Downtown and Front Street",
+   "formHtml": "<form class=\"form\" data-lead-form=\"\" id=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\" name=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\"><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_site\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Cuyahoga Falls Hydro Jetting Pros\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_location\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Downtown and Front Street\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_code\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"HSP\"/>\n<label>\n       Your name\n       <input autocomplete=\"name\" name=\"full_name\" required=\"\"/>\n</label>\n<label>\n       Phone number\n       <input autocomplete=\"tel\" name=\"phone\" required=\"\" type=\"tel\"/>\n</label>\n<label>\n       Email address\n       <input autocomplete=\"email\" name=\"email\" type=\"email\"/>\n</label>\n<label>\n       What is happening?\n       <textarea name=\"page_details\" placeholder=\"Tell us which drains are affected and what you have noticed.\" required=\"\"></textarea>\n</label>\n<label aria-hidden=\"true\" class=\"honeypot\">\n       Leave this blank\n       <input autocomplete=\"off\" name=\"website\" tabindex=\"-1\"/>\n</label>\n<button class=\"btn\" type=\"submit\">\n       Request a call\n      </button>\n<div aria-live=\"polite\" role=\"status\">\n</div>\n<small>\n       We use your information to respond to your request. For urgent sewage backups, keep people away from the affected area and contact a qualified plumbing professional.\n      </small>\n</form>",
+   "contactH2": "\n       Tell us what is happening with your drains.\n      ",
+   "contactPs": [
+    "\n       Whether the issue is a kitchen line that keeps clogging or a main sewer backup, describe the symptoms and how long they have been going on. A drain professional can determine whether hydro jetting is suitable after reviewing the line.\n      ",
+    "\n       Prefer to talk it through? Call the number below.\n      "
+   ]
+  },
+  "broad-boulevard": {
+   "title": "Hydro Jetting in Broad Boulevard, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros",
+   "desc": "Drain and sewer line questions for Broad Boulevard in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.",
+   "canon": "https://cuyahogafallshydrojetting.prosapp.site/broad-boulevard/",
+   "ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\",\"name\":\"Cuyahoga Falls Hydro Jetting Pros\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/\",\"description\":\"Information and requests for hydro jetting service in Cuyahoga Falls, Ohio. Service availability and pipe suitability require confirmation with a qualified professional.\",\"areaServed\":{\"@type\":\"City\",\"name\":\"Cuyahoga Falls, Ohio\"}},{\"@type\":\"WebPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/broad-boulevard/#webpage\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/broad-boulevard/\",\"name\":\"Hydro Jetting in Broad Boulevard, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros\",\"about\":{\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\"},\"description\":\"Drain and sewer line questions for Broad Boulevard in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.\"},{\"@type\":\"FAQPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/broad-boulevard/#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Are all Broad Boulevard sewer lines original?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there.\"}},{\"@type\":\"Question\",\"name\":\"Could roots be causing a backup in Broad Boulevard?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning.\"}},{\"@type\":\"Question\",\"name\":\"Is jetting suitable for an older Cuyahoga Falls house?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment.\"}}]}]}"
+   ],
+   "sections": [
+    {
+     "kind": "prose",
+     "html": "<h2>Older houses</h2>\n<p>A house from the 1880s or later may have had its sewer line replaced, relined or patched since it was built. Records of past work, if the owner has them, are worth checking before any cleaning is planned.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Mature trees and buried lines</h2>\n<p>Older streets often have large trees, and roots can enter a line at a joint or crack. A camera inspection can show whether roots are present and whether the pipe is sound enough to be cleaned.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Sources</h2>\n<p>Neighborhood background from <a href=\"https://www.cityofcf.com/sites/default/files/editor/CD/NW1509_CuyahogaFalls_SurveyReport_6.30.2016_final_comb.pdf\" rel=\"noopener\">this public record</a>.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Related reading</h2>\n<p>These pages explain different drain symptoms and cleaning choices.</p>\n<a href=\"/tree-root-intrusions/\">Tree Root Intrusions</a>\n<a href=\"/severe-grease-and-sludge/\">Severe Grease and Sludge</a>\n<a href=\"/how-hydro-jetting-works/\">How Hydro Jetting Works</a>"
+    }
+   ],
+   "bc": "Hydro jetting and drain lines in Broad Boulevard",
+   "h1": "Hydro jetting questions for Broad Boulevard homes",
+   "heroP": "Broad Boulevard is one of the main east-west streets in the city's historic grid, lined with houses built from the 1800s into the early 1900s.",
+   "intro": "The city's historic survey notes houses there from the 1880s, including an Italianate house from about 1880 and Eastlake and Queen Anne houses from the 1880s, and says a local carpenter built many of the houses on Broad Boulevard. Houses of that age may still have older service lines, or lines that were repaired or replaced at some point.",
+   "faq": [
+    {
+     "q": "Are all Broad Boulevard sewer lines original?",
+     "a": "Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there."
+    },
+    {
+     "q": "Could roots be causing a backup in Broad Boulevard?",
+     "a": "Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning."
+    },
+    {
+     "q": "Is jetting suitable for an older Cuyahoga Falls house?",
+     "a": "It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment."
+    }
+   ],
+   "faqH2": "Questions about drains in Broad Boulevard",
+   "formHtml": "<form class=\"form\" data-lead-form=\"\" id=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\" name=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\"><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_site\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Cuyahoga Falls Hydro Jetting Pros\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_location\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Broad Boulevard\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_code\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"HSP\"/>\n<label>\n       Your name\n       <input autocomplete=\"name\" name=\"full_name\" required=\"\"/>\n</label>\n<label>\n       Phone number\n       <input autocomplete=\"tel\" name=\"phone\" required=\"\" type=\"tel\"/>\n</label>\n<label>\n       Email address\n       <input autocomplete=\"email\" name=\"email\" type=\"email\"/>\n</label>\n<label>\n       What is happening?\n       <textarea name=\"page_details\" placeholder=\"Tell us which drains are affected and what you have noticed.\" required=\"\"></textarea>\n</label>\n<label aria-hidden=\"true\" class=\"honeypot\">\n       Leave this blank\n       <input autocomplete=\"off\" name=\"website\" tabindex=\"-1\"/>\n</label>\n<button class=\"btn\" type=\"submit\">\n       Request a call\n      </button>\n<div aria-live=\"polite\" role=\"status\">\n</div>\n<small>\n       We use your information to respond to your request. For urgent sewage backups, keep people away from the affected area and contact a qualified plumbing professional.\n      </small>\n</form>",
+   "contactH2": "\n       Tell us what is happening with your drains.\n      ",
+   "contactPs": [
+    "\n       Whether the issue is a kitchen line that keeps clogging or a main sewer backup, describe the symptoms and how long they have been going on. A drain professional can determine whether hydro jetting is suitable after reviewing the line.\n      ",
+    "\n       Prefer to talk it through? Call the number below.\n      "
+   ]
+  },
+  "broadbeck-park": {
+   "title": "Hydro Jetting in Broadbeck Park, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros",
+   "desc": "Drain and sewer line questions for Broadbeck Park in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.",
+   "canon": "https://cuyahogafallshydrojetting.prosapp.site/broadbeck-park/",
+   "ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\",\"name\":\"Cuyahoga Falls Hydro Jetting Pros\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/\",\"description\":\"Information and requests for hydro jetting service in Cuyahoga Falls, Ohio. Service availability and pipe suitability require confirmation with a qualified professional.\",\"areaServed\":{\"@type\":\"City\",\"name\":\"Cuyahoga Falls, Ohio\"}},{\"@type\":\"WebPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/broadbeck-park/#webpage\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/broadbeck-park/\",\"name\":\"Hydro Jetting in Broadbeck Park, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros\",\"about\":{\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\"},\"description\":\"Drain and sewer line questions for Broadbeck Park in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.\"},{\"@type\":\"FAQPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/broadbeck-park/#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Are all Broadbeck Park sewer lines original?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there.\"}},{\"@type\":\"Question\",\"name\":\"Could roots be causing a backup in Broadbeck Park?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning.\"}},{\"@type\":\"Question\",\"name\":\"Is jetting suitable for an older Cuyahoga Falls house?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment.\"}}]}]}"
+   ],
+   "sections": [
+    {
+     "kind": "prose",
+     "html": "<h2>A neighborhood built in one era</h2>\n<p>Homes built close together in time often used similar materials, so one house's problem can be a useful clue for a neighbor. It is not proof, because each line can have been repaired or replaced on its own schedule.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Trees planted along the lots</h2>\n<p>The same history notes that saplings were planted along each lot when the area was developed. Mature street and yard trees can put roots near buried lines, so root intrusion is one possible cause of repeat backups.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Sources</h2>\n<p>Neighborhood background from <a href=\"https://cuyahogafallshistory.com/2016/06/city-allotments-broadbeck-park-schillers-northern-heights-akron-gardens-and-north-haven/\" rel=\"noopener\">this public record</a>.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Related reading</h2>\n<p>These pages explain different drain symptoms and cleaning choices.</p>\n<a href=\"/tree-root-intrusions/\">Tree Root Intrusions</a>\n<a href=\"/severe-grease-and-sludge/\">Severe Grease and Sludge</a>\n<a href=\"/how-hydro-jetting-works/\">How Hydro Jetting Works</a>"
+    }
+   ],
+   "bc": "Hydro jetting and drain lines in Broadbeck Park",
+   "h1": "Hydro jetting questions for Broadbeck Park homes",
+   "heroP": "Broadbeck Park was laid out around 1919 as a planned neighborhood of 385 lots off Sackett Avenue.",
+   "intro": "A local history account says Francis Broadbeck bought a 100-acre farm on Sackett Avenue, laid out streets, installed sewer and water lines, and began selling lots in 1919. A neighborhood built in one period may share similar pipe materials, but each house's line can still differ, depending on repairs and later work.",
+   "faq": [
+    {
+     "q": "Are all Broadbeck Park sewer lines original?",
+     "a": "Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there."
+    },
+    {
+     "q": "Could roots be causing a backup in Broadbeck Park?",
+     "a": "Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning."
+    },
+    {
+     "q": "Is jetting suitable for an older Cuyahoga Falls house?",
+     "a": "It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment."
+    }
+   ],
+   "faqH2": "Questions about drains in Broadbeck Park",
+   "formHtml": "<form class=\"form\" data-lead-form=\"\" id=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\" name=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\"><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_site\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Cuyahoga Falls Hydro Jetting Pros\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_location\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Broadbeck Park\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_code\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"HSP\"/>\n<label>\n       Your name\n       <input autocomplete=\"name\" name=\"full_name\" required=\"\"/>\n</label>\n<label>\n       Phone number\n       <input autocomplete=\"tel\" name=\"phone\" required=\"\" type=\"tel\"/>\n</label>\n<label>\n       Email address\n       <input autocomplete=\"email\" name=\"email\" type=\"email\"/>\n</label>\n<label>\n       What is happening?\n       <textarea name=\"page_details\" placeholder=\"Tell us which drains are affected and what you have noticed.\" required=\"\"></textarea>\n</label>\n<label aria-hidden=\"true\" class=\"honeypot\">\n       Leave this blank\n       <input autocomplete=\"off\" name=\"website\" tabindex=\"-1\"/>\n</label>\n<button class=\"btn\" type=\"submit\">\n       Request a call\n      </button>\n<div aria-live=\"polite\" role=\"status\">\n</div>\n<small>\n       We use your information to respond to your request. For urgent sewage backups, keep people away from the affected area and contact a qualified plumbing professional.\n      </small>\n</form>",
+   "contactH2": "\n       Tell us what is happening with your drains.\n      ",
+   "contactPs": [
+    "\n       Whether the issue is a kitchen line that keeps clogging or a main sewer backup, describe the symptoms and how long they have been going on. A drain professional can determine whether hydro jetting is suitable after reviewing the line.\n      ",
+    "\n       Prefer to talk it through? Call the number below.\n      "
+   ]
+  },
+  "northampton": {
+   "title": "Hydro Jetting in Northampton, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros",
+   "desc": "Drain and sewer line questions for Northampton in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.",
+   "canon": "https://cuyahogafallshydrojetting.prosapp.site/northampton/",
+   "ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\",\"name\":\"Cuyahoga Falls Hydro Jetting Pros\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/\",\"description\":\"Information and requests for hydro jetting service in Cuyahoga Falls, Ohio. Service availability and pipe suitability require confirmation with a qualified professional.\",\"areaServed\":{\"@type\":\"City\",\"name\":\"Cuyahoga Falls, Ohio\"}},{\"@type\":\"WebPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/northampton/#webpage\",\"url\":\"https://cuyahogafallshydrojetting.prosapp.site/northampton/\",\"name\":\"Hydro Jetting in Northampton, Cuyahoga Falls | Cuyahoga Falls Hydro Jetting Pros\",\"about\":{\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/#organization\"},\"description\":\"Drain and sewer line questions for Northampton in Cuyahoga Falls, OH. Learn when hydro jetting may help and why pipe inspection matters.\"},{\"@type\":\"FAQPage\",\"@id\":\"https://cuyahogafallshydrojetting.prosapp.site/northampton/#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Are all Northampton sewer lines original?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there.\"}},{\"@type\":\"Question\",\"name\":\"Could roots be causing a backup in Northampton?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning.\"}},{\"@type\":\"Question\",\"name\":\"Is jetting suitable for an older Cuyahoga Falls house?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment.\"}}]}]}"
+   ],
+   "sections": [
+    {
+     "kind": "prose",
+     "html": "<h2>Public sewer or private system</h2>\n<p>Areas that grew in different decades can differ in how they are served. Confirm what serves a property, and where its private line connects, before deciding what kind of cleaning makes sense.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Matching the cleaning to the line</h2>\n<p>Hydro jetting may help with buildup in a sound line, but it does not repair a cracked or offset pipe. A camera inspection can show which situation applies.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Sources</h2>\n<p>Neighborhood background from <a href=\"https://en.wikipedia.org/wiki/Cuyahoga_Falls,_Ohio\" rel=\"noopener\">this public record</a>.</p>"
+    },
+    {
+     "kind": "prose",
+     "html": "<h2>Related reading</h2>\n<p>These pages explain different drain symptoms and cleaning choices.</p>\n<a href=\"/tree-root-intrusions/\">Tree Root Intrusions</a>\n<a href=\"/severe-grease-and-sludge/\">Severe Grease and Sludge</a>\n<a href=\"/how-hydro-jetting-works/\">How Hydro Jetting Works</a>"
+    }
+   ],
+   "bc": "Hydro jetting and drain lines in Northampton",
+   "h1": "Hydro jetting questions for Northampton homes",
+   "heroP": "Northampton was a separate township until 1986, when it merged with Cuyahoga Falls, the first city and township merger in Ohio.",
+   "intro": "The city's survey says the merger added 18 square miles, including part of what is now Cuyahoga Valley National Park. The former township also included early platted areas such as Akron Gardens and Schiller's Northern Heights along what is now Portage Trail. Areas of different ages can have different sewer arrangements, so it helps to confirm what serves a particular property.",
+   "faq": [
+    {
+     "q": "Are all Northampton sewer lines original?",
+     "a": "Not necessarily. A particular property may have replaced or repaired its line, and a camera inspection can show what is there."
+    },
+    {
+     "q": "Could roots be causing a backup in Northampton?",
+     "a": "Roots are possible where there is an opening in a buried line, but symptoms alone cannot show the cause. Inspect the pipe and its joints before deciding on cleaning."
+    },
+    {
+     "q": "Is jetting suitable for an older Cuyahoga Falls house?",
+     "a": "It depends on the condition of that house's pipe, not its address. A professional should check for cracks, offsets and fragile sections before choosing equipment."
+    }
+   ],
+   "faqH2": "Questions about drains in Northampton",
+   "formHtml": "<form class=\"form\" data-lead-form=\"\" id=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\" name=\"Cuyahoga-Falls-Hydro-Jetting-Pros-Form\"><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_site\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Cuyahoga Falls Hydro Jetting Pros\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_location\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Northampton\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_code\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"HSP\"/>\n<label>\n       Your name\n       <input autocomplete=\"name\" name=\"full_name\" required=\"\"/>\n</label>\n<label>\n       Phone number\n       <input autocomplete=\"tel\" name=\"phone\" required=\"\" type=\"tel\"/>\n</label>\n<label>\n       Email address\n       <input autocomplete=\"email\" name=\"email\" type=\"email\"/>\n</label>\n<label>\n       What is happening?\n       <textarea name=\"page_details\" placeholder=\"Tell us which drains are affected and what you have noticed.\" required=\"\"></textarea>\n</label>\n<label aria-hidden=\"true\" class=\"honeypot\">\n       Leave this blank\n       <input autocomplete=\"off\" name=\"website\" tabindex=\"-1\"/>\n</label>\n<button class=\"btn\" type=\"submit\">\n       Request a call\n      </button>\n<div aria-live=\"polite\" role=\"status\">\n</div>\n<small>\n       We use your information to respond to your request. For urgent sewage backups, keep people away from the affected area and contact a qualified plumbing professional.\n      </small>\n</form>",
+   "contactH2": "\n       Tell us what is happening with your drains.\n      ",
+   "contactPs": [
+    "\n       Whether the issue is a kitchen line that keeps clogging or a main sewer backup, describe the symptoms and how long they have been going on. A drain professional can determine whether hydro jetting is suitable after reviewing the line.\n      ",
+    "\n       Prefer to talk it through? Call the number below.\n      "
+   ]
   }
  },
  "footerBlurb": "\n       Information and requests for hydro jetting service in Cuyahoga Falls, Ohio. Service availability and pipe suitability require confirmation with a qualified professional.\n      ",
